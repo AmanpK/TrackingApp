@@ -30,7 +30,7 @@
       </activity>
       <meta-data
       android:name="com.google.android.geo.API_KEY"
-      android:value="AIzaSyDgcrLUcZSfXQhQO6a9dVP7V6KJOoL8jLo" />
+      android:value="Abc" />
       <meta-data android:name="com.transistorsoft.backgroundfetch" android:value="true" />
 
     </application>
